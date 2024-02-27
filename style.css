@@ -1,0 +1,120 @@
+body {
+background-image: url(Imagens/aprenda-a-organizar-uma-biblioteca-escolar-ideal-para-alunos-e-professores-740x495.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: -20px;
+    margin-top: 100px;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h1, h2 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.forms {
+text-align: center;
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 25px;
+}
+
+.forms > input{
+background-color: rgba(161, 214, 161, 0.704);
+width: 15%;
+height: 22px;
+border-radius: 6px;
+border: 100px;
+border-color: black;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.forms > input:hover {
+    background-color: rgba(72, 240, 72, 0.704);
+    width: 15%;
+    height: 22px;
+    border-radius: 6px;
+    border: 100px;
+    border-color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ddd {
+background-color: rgba(161, 214, 161, 0.704);
+width: 4%;
+height: 22px;
+border-radius: 6px;
+border: 100px;
+border-color: black;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ddd:hover {
+    background-color: rgba(72, 240, 72, 0.704);
+    width: 4%;
+    height: 22px;
+    border-radius: 6px;
+    border: 100px;
+    border-color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.serie {
+    background-color: rgba(161, 214, 161, 0.704);
+    width: 20%;
+    height: 30px;
+    border-radius: 6px;
+    border: 100px;
+    border-color: black;
+    text-align: center;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
+}
+
+.serie:hover{
+    background-color: rgba(72, 240, 72, 0.704);
+    width: 20%;
+    height: 30px;
+    border-radius: 6px;
+    border: 100px;
+    border-color: black;
+    text-align: center;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 30px;
+}
+
+.final input {
+font-size: 18px;
+background-color: rgba(45, 249, 45, 0.704);
+width: 22%;
+height: 30px;
+border-radius: 6px;
+border: 100px;
+border-color: rgb(255, 255, 255);
+margin-bottom: 100px;
+}
+
+.final input:hover {
+    font-size: 18px;
+    background-color: rgba(9, 88, 9, 0.704);
+    color: white;
+    width: 22%;
+    height: 30px;
+    border-radius: 6px;
+    border: 100px;
+    border-color: rgb(255, 255, 255);
+    transition: 0.5s;
+    }
